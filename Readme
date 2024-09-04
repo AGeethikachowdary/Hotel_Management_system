@@ -1,0 +1,9 @@
+Hotel management System is a technology that allows hotel operators and
+owners to streamline their administrative tasks.
+A database system built using PHP and MySQL that aims at replicating
+the working of a hotel in real-life. It consists of different tables that would
+be populated such as “room”, “roombook” which would contain information
+on who has booked the room and how many rooms/what type of rooms
+are available. It is integrated with a frontend to accept booking for various
+kinds of rooms and is reflected appropriately in the backend(database)
+
